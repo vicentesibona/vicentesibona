@@ -118,8 +118,12 @@ Titulado con Distinción Máxima.
 
 ## GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vicentesibona&show_icons=true&hide_title=true&theme=default&locale=es)
-![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesibona&layout=compact&theme=default&locale=es)
+## GitHub
+
+[![Perfil de GitHub](https://img.shields.io/badge/Perfil-vicentesibona-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicentesibona)
+[![Repositorios](https://img.shields.io/badge/Repositorios-ver%20todos-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicentesibona?tab=repositories)
+
+Repositorio destacado: [Job Agent](https://github.com/vicentesibona/job_agent) — búsqueda de ofertas y generación de CV con agentes.
 
 ---
 
@@ -129,8 +133,7 @@ Abierto a conversar sobre roles de Data Science, Machine Learning y AI Engineeri
 
 [![GitHub](https://img.shields.io/badge/GitHub-vicentesibona-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicentesibona)
 
-<!--
-Si quieres añadir LinkedIn, descomenta y completa la URL:
+
+## LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente%20Sibona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
--->
